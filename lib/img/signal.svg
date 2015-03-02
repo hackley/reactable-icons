@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 20 61.4" enable-background="new 0 0 20 61.4" xml:space="preserve">
+	<rect class="bar-1" width="20" height="7.7"/>
+	<rect class="bar-2" y="10.7" width="20" height="7.7"/>
+	<rect class="bar-3" y="21.5" width="20" height="7.7"/>
+	<rect class="bar-4" y="32.2" width="20" height="7.7"/>
+	<rect class="bar-5" y="42.9" width="20" height="7.7"/>
+	<rect class="bar-6" y="53.7" width="20" height="7.7"/>
+</svg>
